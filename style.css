@@ -1,8 +1,24 @@
 body {
   margin: 0;
+  
 }
 
 main {
-  width: 400vh;
+  height: 800vh;
+  background-color: lightsalmon;
 }
-
+.menu{
+  
+}
+.menu-list{
+  display: flex;
+  
+}
+.logo{
+  width: 100%;
+}
+.oscar-svg{
+  background-color: red;
+  position: relative;
+  z-index: 2;
+}
